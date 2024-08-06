@@ -4,7 +4,7 @@ title: Resume
 permalink: /resume/
 ---
 
-[GitHub 🐱‍💻](https://github.com/kruxarth) &#124; [LeetCode 🧩](https://leetcode.com/kruxarth) &#124; [LinkedIn 🔗](https://www.linkedin.com/in/krutarth-fulare-97052b301]
+[GitHub 🐱‍💻](https://github.com/kruxarth) &#124; [LeetCode 🧩](https://leetcode.com/kruxarth) &#124; [LinkedIn 🔗](https://www.linkedin.com/in/krutarth-fulare-97052b301)
 
 ## Skills Summary 🛠️
 
@@ -30,6 +30,6 @@ permalink: /resume/
 - **English:** Full Professional Proficiency 
 - **Marathi:** Bilingual/Native Proficiency
 - **Hindi:** Bilingual/Native Proficiency
--
+
 
 

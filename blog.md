@@ -3,4 +3,4 @@ layout: home
 title: Blog
 permalink: /blog/
 ---
-Collections of my bookreviews and philosophy
+Collection of my book-reviews and philosophical takes

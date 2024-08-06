@@ -42,13 +42,7 @@ button.active {
 }
 </style>
 
-<div>
-    <button class="filter-button" data-filter="all">All</button>
-    <button class="filter-button" data-filter="classification">Classification</button>
-    <button class="filter-button" data-filter="detection">Detection</button>
-    <button class="filter-button" data-filter="segmentation">Segmentation</button>
-    <button class="filter-button" data-filter="face">Face</button>
-</div>
+
 
 
 

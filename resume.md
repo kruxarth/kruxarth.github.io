@@ -15,17 +15,14 @@ permalink: /resume/
 
 ## Education 🎓
 
-
-
-## Publications 📝
-
-
+ 
 
 ## Honors 🏆
 
 
 
 ## Languages 🌐
+
 
 - **English:** Full Professional Proficiency 
 - **Marathi:** Bilingual/Native Proficiency

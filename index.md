@@ -121,7 +121,7 @@ permalink: /
         </div>
     </div>
     <div class="description">
-        Exploring Life Through the Lens of a Computer Scientist: AI, Tech, and Beyond.
+        Blip in Infinity
     </div>
     <div class="buttons">
         <a href="{{ site.baseurl }}/blog" class="read-blog">Read Blog</a>

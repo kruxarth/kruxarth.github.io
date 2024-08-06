@@ -111,13 +111,13 @@ permalink: /
 <div class="landing-page">
     <img src="{{ site.baseurl }}/assets/images/logo.webp" alt="Your Photo" class="profile-photo">
     <div class="profile-info">
-        <div class="name">Yakhyo Valikhujaev</div>
-        <div class="title">ML Software Engineer</div>
+        <div class="name">Krutarth Fulare</div>
+        <div class="title">CS Student</div>
         <div class="social-links">
-            <a href="https://youtube.com/codeuz" target="_blank"><i class="fab fa-youtube"></i></a>
-            <a href="https://github.com/yakhyo" target="_blank"><i class="fab fa-github"></i></a>
-            <a href="https://linkedin.com//in/y-valikhujaev" target="_blank"><i class="fab fa-linkedin"></i></a>
-            <a href="https://t.me/valikhujaev" target="_blank"><i class="fab fa-telegram"></i></a>
+            
+             <a href="https://github.com/kruxarth" target="_blank"><i class="fab fa-github"></i></a>
+            <a href="https://www.linkedin.com/in/krutarth-fulare-97052b301/" target="_blank"><i class="fab fa-linkedin"></i></a>
+            <a href="mailto:kruxarth@gmail.com"><i class="fa fa-envelope" aria-hidden="true"></i></a>
         </div>
     </div>
     <div class="description">

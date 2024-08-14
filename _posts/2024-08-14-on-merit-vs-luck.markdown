@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "om merit vs luck"
+title:  "On merit vs luck"
 date:   2024-08-13 17:37:41 +0000
 categories: 
 ---

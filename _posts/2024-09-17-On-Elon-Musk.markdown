@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "On Elon Musk"
-date:   2024-09-17
+date:   2024-09-16
 categories: 
 ---
 Elon Musk, the world’s richest man and often compared to Iron Man from the Avengers, is one of the most influential and controversial figures of our time. In the race for the most influential person of the 21st century, Elon is undoubtedly a leading contender. (For context, Albert Einstein held that honor for the 20th century.) Recently, I finished reading his biography by Walter Isaacson, which was released in September 2023. I want this post to serve as a time capsule of my opinions, which may evolve in the future.

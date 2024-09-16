@@ -10,13 +10,14 @@ So, where do we begin? Even before reading the book, I considered myself a bit o
 
 Elon Musk currently leads several groundbreaking companies:
 
-    Tesla: An electric car company also working on self-driving cars and humanoid robots called Optimus.
-    SpaceX: A spacecraft company with the ultimate goal of colonizing Mars, as well as providing satellite internet through Starlink.
-    The Boring Company: Focused on tunnel construction and infrastructure.
-    Neuralink: Working on technologies that could potentially cure paralysis in the near future.
-    SolarCity: A solar energy company.
-    X.AI: A company aimed at competing with OpenAI, the firm behind ChatGPT, which Elon co-founded but later left.
-    Twitter (now X): The social media platform he recently acquired.
+- **Tesla**: An electric car company also working on self-driving cars and humanoid robots called Optimus.
+- **SpaceX**: A spacecraft company with the ultimate goal of colonizing Mars, as well as providing satellite internet through Starlink.
+- **The Boring Company**: Focused on tunnel construction and infrastructure.
+- **Neuralink**: Working on technologies that could potentially cure paralysis in the near future.
+- **SolarCity**: A solar energy company.
+- **X.AI**: A company aimed at competing with OpenAI, the firm behind ChatGPT, which Elon co-founded but later left.
+- **Twitter (now X)**: The social media platform he recently acquired.
+
 
 What’s remarkable about Elon is not just the diversity of his ventures but his active involvement in each one. He’s not merely an investor—he’s hands-on with their progress. His intense work ethic extends to his employees, whom he expects to match his relentless drive.
 

@@ -1,6 +1,7 @@
 ---
 layout: post
 title:  "On Elon Musk"
+comments: true
 date:   2024-09-16
 categories: 
 ---
@@ -41,6 +42,28 @@ According to Sam Altman, the current CEO of OpenAI, Musk’s ambition to “save
 
 I’m not even sure how much of what I’m writing here I truly believe, but here goes nothing. I admire Musk’s audacity and ambition, and part of me wants to emulate his boldness. But I’m also aware that this kind of craziness can’t be artificially cultivated. I know myself—I’m naturally averse to risk, and sometimes I hate that about myself. Yet, I’m still young and just starting college, and maybe I can spend the next few years trying to live as someone unafraid to speak his mind and take risks, even if it doesn’t come naturally to me.
 Well, I think that’s enough for my first blog. I’m not sure if there will be a second part, and I probably forgot a few points I wanted to include. That said, I’d love to hear your thoughts! I’m aiming to add a comment and rating feature directly under the post, but unfortunately, that’s not available just yet. In the meantime, feel free to leave your feedback in my Instagram DMs.
+
+
+<div id="disqus_thread"></div>
+<script>
+    /**
+    *  RECOMMENDED CONFIGURATION VARIABLES: EDIT AND UNCOMMENT THE SECTION BELOW TO INSERT DYNAMIC VALUES FROM YOUR PLATFORM OR CMS.
+    *  LEARN WHY DEFINING THESE VARIABLES IS IMPORTANT: https://disqus.com/admin/universalcode/#configuration-variables    */
+    /*
+    var disqus_config = function () {
+    this.page.url = 'https://kruxarth.github.io/2024/09/16/On-Elon-Musk.html';  // Replace PAGE_URL with your page's canonical URL variable
+    this.page.url = 'https://kruxarth.github.io/2024/09/16/On-Elon-Musk.html';
+ // Replace PAGE_IDENTIFIER with your page's unique identifier variable
+    };
+    */
+    (function() { // DON'T EDIT BELOW THIS LINE
+    var d = document, s = d.createElement('script');
+    s.src = 'https://kruxarth.disqus.com/embed.js';
+    s.setAttribute('data-timestamp', +new Date());
+    (d.head || d.body).appendChild(s);
+    })();
+</script>
+<noscript>Please enable JavaScript to view the <a href="https://disqus.com/?ref_noscript">comments powered by Disqus.</a></noscript>
 
 
 

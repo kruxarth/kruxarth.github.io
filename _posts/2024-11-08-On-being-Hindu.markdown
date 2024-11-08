@@ -36,7 +36,7 @@ So, why do I call myself Hindu? I believe my religion is a conglomerate of ideas
 
 The last two concepts are central to many Hindu schools of thought throughout history. I believe my religion encourages independent thinking, and it’s okay to have different answers. My disbelief in rebirth and karma is, in fact, a product of faithfully thinking critically. I’m open to changing my beliefs and might come to appreciate or be convinced of these ideas. This isn’t a matter of being right or wrong; it’s about self-discovery and finding inner peace.
 
-So, what does being Hindu mean to me? To me, it’s about being open to other (tolerant) ideologies and viewpoints. It’s about maximizing well-being for as many people as possible, but nor  at the cost of harming others. It’s about being open to the possibility of a higher entity I don’t yet understand and perhaps being connected to it in some way.
+So, what does being Hindu mean to me? To me, it’s about being open to other (tolerant) ideologies and viewpoints. It’s about maximizing well-being for as many people as possible, but not  at the cost of harming others. It’s about being open to the possibility of a higher entity I don’t yet understand and perhaps being connected to it in some way.
 
 There’s much more I want to discuss: my opinions on Vedanta, the Ramayana & Mahabharata, Abrahamic religions, and casteism & varna. However, including them here would make this article longer than I’d like, and it would diverge from the topic. I’ll cover these in upcoming articles. Please share your thoughts in the comments, or feel free to DM me if you’d like to discuss further!
 

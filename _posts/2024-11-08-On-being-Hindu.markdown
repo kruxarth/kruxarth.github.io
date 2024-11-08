@@ -43,23 +43,24 @@ There’s much more I want to discuss: my opinions on Vedanta, the Ramayana & Ma
 
 
   
-    <div id="disqus_thread"></div>
-<script>
-    /**
-    *  RECOMMENDED CONFIGURATION VARIABLES: EDIT AND UNCOMMENT THE SECTION BELOW TO INSERT DYNAMIC VALUES FROM YOUR PLATFORM OR CMS.
-    *  LEARN WHY DEFINING THESE VARIABLES IS IMPORTANT: https://disqus.com/admin/universalcode/#configuration-variables    */
-    
+
+<div id="disqus_thread"></div> 
+<script> 
     var disqus_config = function () {
-    this.page.url = 'https://kruxarth.github.io/2024/11/08/on-being-hindu.html';  // Replace PAGE_URL with your page's canonical URL variable
-    this.page.identifier = 'https://kruxarth.github.io/2024/11/08/on-being-hindu.html'; // Replace PAGE_IDENTIFIER with your page's unique identifier variable
-    };
+        this.page.url = 'https://kruxarth.github.io/2024/11/08/on-being-hindu.html'; 
+        this.page.identifier = 'on-being-hindu'; 
+    }; 
+  
+   (function() { 
+        var d = document, s = d.createElement('script');
+        s.src = 'https://kruxarth.disqus.com/embed.js';
+        s.setAttribute('data-timestamp', +new Date());
+        (d.head || d.body).appendChild(s);
+    })(); 
+
+  
     
-    (function() { // DON'T EDIT BELOW THIS LINE
-    var d = document, s = d.createElement('script');
-    s.src = 'https://kruxarth.disqus.com/embed.js';
-    s.setAttribute('data-timestamp', +new Date());
-    (d.head || d.body).appendChild(s);
-    })();
 </script>
 <noscript>Please enable JavaScript to view the <a href="https://disqus.com/?ref_noscript">comments powered by Disqus.</a></noscript>
+
 

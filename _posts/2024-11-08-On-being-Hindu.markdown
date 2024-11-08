@@ -1,7 +1,9 @@
 ---
 layout: post
 title: "On being Hindu"
+comments: true
 date: 2024-11-08
+categories:
 ---
 
 Recently, I was trying to gather my thoughts on what my religious views were, so I thought, what better way than to write it down and turn it into an article? I haven’t been publishing as much as I would have liked, and my previous blog didn’t receive the meaningful response I was hoping for. Now, with more Instagram followers, I’m hopeful this one will reach a larger audience and find more people interested in similar ideas. It’s going to be a long read, so buckle up.
@@ -37,3 +39,27 @@ The last two concepts are central to many Hindu schools of thought throughout hi
 So, what does being Hindu mean to me? To me, it’s about being open to other (tolerant) ideologies and viewpoints. It’s about maximizing well-being for as many people as possible, but nor  at the cost of harming others. It’s about being open to the possibility of a higher entity I don’t yet understand and perhaps being connected to it in some way.
 
 There’s much more I want to discuss: my opinions on Vedanta, the Ramayana & Mahabharata, Abrahamic religions, and casteism & varna. However, including them here would make this article longer than I’d like, and it would diverge from the topic. I’ll cover these in upcoming articles. Please share your thoughts in the comments, or feel free to DM me if you’d like to discuss further!
+
+
+
+  
+    <div id="disqus_thread"></div>
+<script>
+    /**
+    *  RECOMMENDED CONFIGURATION VARIABLES: EDIT AND UNCOMMENT THE SECTION BELOW TO INSERT DYNAMIC VALUES FROM YOUR PLATFORM OR CMS.
+    *  LEARN WHY DEFINING THESE VARIABLES IS IMPORTANT: https://disqus.com/admin/universalcode/#configuration-variables    */
+    
+    var disqus_config = function () {
+    this.page.url = 'https://kruxarth.github.io/2024/11/08/on-being-hindu.html';  // Replace PAGE_URL with your page's canonical URL variable
+    this.page.identifier = 'https://kruxarth.github.io/2024/11/08/on-being-hindu.html'; // Replace PAGE_IDENTIFIER with your page's unique identifier variable
+    };
+    
+    (function() { // DON'T EDIT BELOW THIS LINE
+    var d = document, s = d.createElement('script');
+    s.src = 'https://kruxarth.disqus.com/embed.js';
+    s.setAttribute('data-timestamp', +new Date());
+    (d.head || d.body).appendChild(s);
+    })();
+</script>
+<noscript>Please enable JavaScript to view the <a href="https://disqus.com/?ref_noscript">comments powered by Disqus.</a></noscript>
+

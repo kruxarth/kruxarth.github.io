@@ -50,13 +50,13 @@ Well, I think that’s enough for my first blog. I’m not sure if there will be
         this.page.url = 'https://kruxarth.github.io/2024/09/16/On-Elon-Musk.html';  // Canonical URL
         this.page.identifier = 'https://kruxarth.github.io/2024/09/16/On-Elon-Musk.html';  // Unique identifier
     };
-    
-    (function() { // DON'T EDIT BELOW THIS LINE
+     (function() { // DON'T EDIT BELOW THIS LINE
         var d = document, s = d.createElement('script');
         s.src = 'https://kruxarth.disqus.com/embed.js';
         s.setAttribute('data-timestamp', +new Date());
         (d.head || d.body).appendChild(s);
     })();
+   
 </script>
 <noscript>Please enable JavaScript to view the <a href="https://disqus.com/?ref_noscript">comments powered by Disqus.</a></noscript>
 

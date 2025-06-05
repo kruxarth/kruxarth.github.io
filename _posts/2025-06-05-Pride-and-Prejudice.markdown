@@ -2,7 +2,7 @@
 layout: post
 title:  "Pride and Prejudice"
 comments: true
-date:   2025-06-05
+date:   2025-06-04
 categories: 
 ---
 Book Review: Pride and Prejudice
@@ -22,7 +22,7 @@ What I really enjoyed was how the characters were sarcastic or passive-aggressiv
 
 I started reading it in EPUB format but later switched to the audiobook version (it’s on YouTube). It became my go-to book for afternoon naps. Not because it was boring, but because the narration was calm and easy to drift off to. I think I managed not to spoil too much, so if you’re thinking of reading it, you still can. Let me know if you have, or if you end up doing it after this.
 
-<script> var disqus_config = function () { this.page.url = 'https://kruxarth.github.io/2025/06/05/Pride-and-Prejudice.html'; this.page.identifier = 'Pride-and-Prejudice'; };
+<script> var disqus_config = function () { this.page.url = 'https://kruxarth.github.io/2025/06/04/Pride-and-Prejudice.html'; this.page.identifier = 'Pride-and-Prejudice'; };
 (function() { var d = document, s = d.createElement('script'); s.src = 'https://kruxarth.disqus.com/embed.js'; s.setAttribute('data-timestamp', +new Date()); (d.head || d.body).appendChild(s); })();
 
 </script> Please enable JavaScript to view the comments powered by Disqus.

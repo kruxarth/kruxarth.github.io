@@ -1,3 +1,10 @@
+---
+layout: post
+title:  "Pride and Prejudice"
+comments: true
+date:   2025-06-05
+categories: 
+---
 Book Review: Pride and Prejudice
 
 Okay, so the first two paragraphs are not about the book, so you can skip them if you want to get straight to the review. But honestly, I doubt anyone reading this is that eager for the book review that they’d skip these parts. Still, just had to get that disclaimer out. Also, maybe there are minor spoilers, but no one reading this is probably going to pick up the book after reading this anyway.

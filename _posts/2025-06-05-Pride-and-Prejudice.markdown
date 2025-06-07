@@ -25,8 +25,8 @@ I started reading it in EPUB format but later switched to the audiobook version 
 <div id="disqus_thread"></div>
 <script>
     var disqus_config = function () {
-        this.page.url = 'https://kruxarth.github.io/2025/05/04/Pride-and-Prejudice.html';  // Canonical URL
-        this.page.identifier = 'https://kruxarth.github.io/2025/05/04/Pride-and-Prejudice.html';  // Unique identifier
+        this.page.url = 'https://kruxarth.github.io/2025/06/04/Pride-and-Prejudice.html';  // Canonical URL
+        this.page.identifier = 'https://kruxarth.github.io/2025/06/04/Pride-and-Prejudice.html';  // Unique identifier
     };
      (function() { // DON'T EDIT BELOW THIS LINE
         var d = document, s = d.createElement('script');

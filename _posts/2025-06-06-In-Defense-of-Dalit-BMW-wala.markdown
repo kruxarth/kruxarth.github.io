@@ -1,4 +1,10 @@
-
+---
+layout: post
+title:  "In Defense of Dalit BMW wala"
+comments: true
+date:   2025-06-06
+categories: 
+---
 In Defence of Dalit BMW Wala
 
 Well, when I had decided to start writing blogs, I had told myself I’m not gonna write anything controversial. Let my blogs be about things that interest me — books, ideas, philosophy. Yet here we are. I don’t know why exactly. A good friend of mine had asked me a few days ago to explain my pro-SC/ST reservation stance. I did not feel like explaining it to him that particular day. He had asked in very good faith. So this blog is for him and people who want to engage in this discussion of a polarising and controversial topic.

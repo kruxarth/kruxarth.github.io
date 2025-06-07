@@ -153,4 +153,7 @@ But I am too much of a realist to believe that’ll happen. Their politicians wo
 
 SC/ST reservation becoming meaningless automatically is the best we can hope for.
 
-<script> var disqus_config = function () { this.page.url = 'https://kruxarth.github.io/2025/06/06/In-Defense-of-Dalit-BMW-wala.html'; // Canonical URL this.page.identifier = 'https://kruxarth.github.io/2025/06/06/In-Defense-of-Dalit-BMW-wala.html'; // Unique identifier }; (function() { // DON'T EDIT BELOW THIS LINE var d = document, s = d.createElement('script'); s.src = 'https://kruxarth.disqus.com/embed.js'; s.setAttribute('data-timestamp', +new Date()); (d.head || d.body).appendChild(s); })(); </script> Please enable JavaScript to view the comments powered by Disqus.
+<script>
+ var disqus_config = function () { this.page.url = 'https://kruxarth.github.io/2025/06/06/In-Defense-of-Dalit-BMW-wala.html'; // Canonical URL this.page.identifier = 'https://kruxarth.github.io/2025/06/06/In-Defense-of-Dalit-BMW-wala.html'; // Unique identifier }; (function() { // DON'T EDIT BELOW THIS LINE var d = document, s = d.createElement('script'); s.src = 'https://kruxarth.disqus.com/embed.js'; s.setAttribute('data-timestamp', +new Date()); (d.head || d.body).appendChild(s); })(); 
+</script> 
+Please enable JavaScript to view the comments powered by Disqus.

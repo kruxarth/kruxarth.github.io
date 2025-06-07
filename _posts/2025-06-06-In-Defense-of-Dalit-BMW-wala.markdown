@@ -1,3 +1,4 @@
+
 In Defence of Dalit BMW Wala
 
 Well, when I had decided to start writing blogs, I had told myself I’m not gonna write anything controversial. Let my blogs be about things that interest me — books, ideas, philosophy. Yet here we are. I don’t know why exactly. A good friend of mine had asked me a few days ago to explain my pro-SC/ST reservation stance. I did not feel like explaining it to him that particular day. He had asked in very good faith. So this blog is for him and people who want to engage in this discussion of a polarising and controversial topic.
@@ -145,3 +146,5 @@ I think there will come a point in the future where reservation will become mean
 But I am too much of a realist to believe that’ll happen. Their politicians would never let that happen. It would be electoral suicide for any party to argue that.
 
 SC/ST reservation becoming meaningless automatically is the best we can hope for.
+
+<script> var disqus_config = function () { this.page.url = 'https://kruxarth.github.io/2025/06/06/In-Defense-if-Dalit-BMW-wala.html'; // Canonical URL this.page.identifier = 'https://kruxarth.github.io/2025/06/06/In-Defense-of-Dalit-BMW-wala.html'; // Unique identifier }; (function() { // DON'T EDIT BELOW THIS LINE var d = document, s = d.createElement('script'); s.src = 'https://kruxarth.disqus.com/embed.js'; s.setAttribute('data-timestamp', +new Date()); (d.head || d.body).appendChild(s); })(); </script> Please enable JavaScript to view the comments powered by Disqus.

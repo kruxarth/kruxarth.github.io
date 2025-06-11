@@ -152,8 +152,19 @@ I think there will come a point in the future where reservation will become mean
 But I am too much of a realist to believe that’ll happen. Their politicians would never let that happen. It would be electoral suicide for any party to argue that.
 
 SC/ST reservation becoming meaningless automatically is the best we can hope for.
-
+<div id="disqus_thread"></div>
 <script>
- var disqus_config = function () { this.page.url = 'https://kruxarth.github.io/2025/06/06/In-Defense-of-Dalit-BMW-wala.html'; // Canonical URL this.page.identifier = 'https://kruxarth.github.io/2025/06/06/In-Defense-of-Dalit-BMW-wala.html'; // Unique identifier }; (function() { // DON'T EDIT BELOW THIS LINE var d = document, s = d.createElement('script'); s.src = 'https://kruxarth.disqus.com/embed.js'; s.setAttribute('data-timestamp', +new Date()); (d.head || d.body).appendChild(s); })(); 
-</script> 
-Please enable JavaScript to view the comments powered by Disqus.
+    var disqus_config = function () {
+        this.page.url = "https://kruxarth.github.io/2025/06/06/In-Defense-of-Dalit-BMW-wala.html";
+        this.page.identifier = "in-defense-of-dalit-bmw-wala"; // A short, unique identifier
+    };
+
+    (function() {
+        var d = document, s = d.createElement('script');
+        s.src = 'https://kruxarth.disqus.com/embed.js';
+        s.setAttribute('data-timestamp', +new Date());
+        (d.head || d.body).appendChild(s);
+    })();
+</script>
+<noscript>Please enable JavaScript to view the 
+<a href="https://disqus.com/?ref_noscript">comments powered by Disqus.</a></noscript>
